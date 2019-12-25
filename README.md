@@ -135,7 +135,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|---|----
-|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|(http://www.baidu.com/img/bdlogo.gif "百度logo")
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|(![baidu]http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][code-past]`|![][code-past]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
